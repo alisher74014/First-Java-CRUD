@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.library.BookCrudIntegrationTest
--------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.364 s -- in com.example.library.BookCrudIntegrationTest
--------------------------------------------------------------------------------
-Test set: com.example.library.config.SampleDataInitializerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.220 s -- in com.example.library.config.SampleDataInitializerTest
