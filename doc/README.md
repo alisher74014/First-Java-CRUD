@@ -26,3 +26,4 @@ Both students must capture evidence from their own locally running applications 
 
 Upload the history screenshot showing both students and a running-application screenshot to Platon. Read [PAIR-WORK-GUIDE.md](PAIR-WORK-GUIDE.md) for each person's exact steps.
 <img width="1080" height="821" alt="WhatsApp Image 2026-10-26 at 01 00 10" src="https://github.com/user-attachments/assets/0003abab-5eb4-4b3d-971e-8d8e76a443cd" />
+<img width="1080" height="672" alt="WhatsApp Image 2026-10-26 " src="https://github.com/user-attachments/assets/aa6b32c8-384d-4af2-b41a-a5f09a2104e3" />
