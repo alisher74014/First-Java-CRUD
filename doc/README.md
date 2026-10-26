@@ -25,3 +25,4 @@ After the real partner pull request has been reviewed and merged, add a screensh
 Both students must capture evidence from their own locally running applications and commit it into their own repository's `doc` folder. The supplied images document A's prepared local run and are a reference for B; they do not prove B ran the app.
 
 Upload the history screenshot showing both students and a running-application screenshot to Platon. Read [PAIR-WORK-GUIDE.md](PAIR-WORK-GUIDE.md) for each person's exact steps.
+<img width="1080" height="821" alt="WhatsApp Image 2026-10-26 at 01 00 10" src="https://github.com/user-attachments/assets/0003abab-5eb4-4b3d-971e-8d8e76a443cd" />
